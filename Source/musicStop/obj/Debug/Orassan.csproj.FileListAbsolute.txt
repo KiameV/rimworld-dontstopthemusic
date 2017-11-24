@@ -1,0 +1,27 @@
+C:\Games\RimWorld\A14\BlackGold\Mods\Orassan_wanderer_fix_1\Source\Orassan\bin\Debug\Orassan.dll
+C:\Games\RimWorld\A14\BlackGold\Mods\Orassan_wanderer_fix_1\Source\Orassan\bin\Debug\Orassan.pdb
+C:\Games\RimWorld\A14\BlackGold\Mods\Orassan_wanderer_fix_1\Source\Orassan\obj\Debug\Orassan.csprojResolveAssemblyReference.cache
+C:\Games\RimWorld\A14\BlackGold\Mods\Orassan_wanderer_fix_1\Source\Orassan\obj\Debug\Orassan.dll
+C:\Games\RimWorld\A14\BlackGold\Mods\Orassan_wanderer_fix_1\Source\Orassan\obj\Debug\Orassan.pdb
+C:\Users\Artemis\Desktop\New folder (2)\Orassan_wanderer_fix_3\Source\Orassan\bin\Debug\Orassan.dll
+C:\Users\Artemis\Desktop\New folder (2)\Orassan_wanderer_fix_3\Source\Orassan\bin\Debug\Orassan.pdb
+C:\Users\Artemis\Desktop\New folder (2)\Orassan_wanderer_fix_3\Source\Orassan\bin\Debug\Assembly-CSharp.dll
+C:\Users\Artemis\Desktop\New folder (2)\Orassan_wanderer_fix_3\Source\Orassan\bin\Debug\UnityEngine.dll
+C:\Users\Artemis\Desktop\New folder (2)\Orassan_wanderer_fix_3\Source\Orassan\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Artemis\Desktop\New folder (2)\Orassan_wanderer_fix_3\Source\Orassan\bin\Debug\NAudio.dll
+C:\Users\Artemis\Desktop\New folder (2)\Orassan_wanderer_fix_3\Source\Orassan\bin\Debug\NVorbis.dll
+C:\Users\Artemis\Desktop\New folder (2)\Orassan_wanderer_fix_3\Source\Orassan\obj\Debug\Orassan.csprojResolveAssemblyReference.cache
+C:\Users\Artemis\Desktop\New folder (2)\Orassan_wanderer_fix_3\Source\Orassan\obj\Debug\Orassan.dll
+C:\Users\Artemis\Desktop\New folder (2)\Orassan_wanderer_fix_3\Source\Orassan\obj\Debug\Orassan.pdb
+C:\Users\Artemis\Desktop\New folder (2)\Orassan_wanderer_fix_3\Source\Orassan\bin\Debug\Community Core Library.dll
+C:\Users\mckin\Documents\New folder\Orassan\bin\Debug\Orassan.dll
+C:\Users\mckin\Documents\New folder\Orassan\obj\Debug\Orassan.csprojResolveAssemblyReference.cache
+C:\Users\mckin\Documents\New folder\Orassan\obj\Debug\Orassan.dll
+C:\Users\Artemis\Desktop\New folder (3)\Orassan\bin\Debug\Orassan.dll
+C:\Users\Artemis\Desktop\New folder (3)\Orassan\obj\Debug\Orassan.csprojResolveAssemblyReference.cache
+C:\Users\Artemis\Desktop\New folder (3)\Orassan\obj\Debug\Orassan.dll
+C:\Users\Artemis\Desktop\New folder (3)\Orassan\bin\Debug\Community Core Library.dll
+C:\Users\Artemis\Desktop\Orassan Source\Source\Orassan\obj\Debug\Orassan.csprojResolveAssemblyReference.cache
+C:\Users\Artemis\Desktop\Orassan Source\Source\Orassan\obj\Debug\Orassan.dll
+D:\Games\Steam\steamapps\common\RimWorld\Mods\Orassan Source\Source\Orassan\obj\Debug\Orassan.csprojResolveAssemblyReference.cache
+D:\Games\Steam\steamapps\common\RimWorld\Mods\Orassan Source\Source\Orassan\obj\Debug\Orassan.dll
