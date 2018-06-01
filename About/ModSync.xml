@@ -1,7 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModSyncNinjaData>
-	<ID>3afff369-cae9-401f-81c9-37b19337c4ff</ID>
-	<ModName>Don&#39;t Stop The Music</ModName>
-	<Version>0.18.1.0</Version>
-	<SaveBreaking>false</SaveBreaking>
+  <ID>3afff369-cae9-401f-81c9-37b19337c4ff</ID>
+  <ModName>Don't Stop The Music</ModName>
+  <Version>0.18.1.0</Version>
+  <SaveBreaking>False</SaveBreaking>
+  <Host name="Github">
+    <Owner>KiameV</Owner>
+    <Project>rimworld-dontstopthemusic</Project>
+    <DownloadFrom>ModSyncReleases</DownloadFrom>
+    <Branch>master</Branch>
+  </Host>
 </ModSyncNinjaData>
