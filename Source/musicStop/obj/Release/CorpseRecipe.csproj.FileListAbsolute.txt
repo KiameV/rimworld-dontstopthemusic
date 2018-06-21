@@ -1,3 +1,0 @@
-D:\Games\Steam\steamapps\common\RimWorld\Mods\CorpseRecipe\Assemblies\CorpseRecipe.dll
-D:\Games\Steam\steamapps\common\RimWorld\Mods\CorpseRecipe\Source\CorpseRecipe\obj\Release\CorpseRecipe.csprojResolveAssemblyReference.cache
-D:\Games\Steam\steamapps\common\RimWorld\Mods\CorpseRecipe\Source\CorpseRecipe\obj\Release\CorpseRecipe.dll

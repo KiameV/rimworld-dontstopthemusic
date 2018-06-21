@@ -1,3 +1,0 @@
-D:\Games\Steam\steamapps\common\RimWorld\Mods\Dont stop the music\Assemblies\musicPauseOut.dll
-D:\Games\Steam\steamapps\common\RimWorld\Mods\Dont stop the music\Source\musicStop\obj\Debug\musicPauseOut.csprojResolveAssemblyReference.cache
-D:\Games\Steam\steamapps\common\RimWorld\Mods\Dont stop the music\Source\musicStop\obj\Debug\musicPauseOut.dll
