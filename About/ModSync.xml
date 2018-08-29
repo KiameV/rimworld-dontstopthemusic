@@ -1,8 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModSyncNinjaData>
-  <ID>3afff369-cae9-401f-81c9-37b19337c4ff</ID>
   <ModName>Don't Stop The Music</ModName>
-  <Version>1.0.0.1</Version>
+  <Version>0.19.0.1</Version>
   <SaveBreaking>False</SaveBreaking>
   <Host name="Github">
     <Owner>KiameV</Owner>

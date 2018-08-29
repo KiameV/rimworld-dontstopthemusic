@@ -1,0 +1,3 @@
+C:\Users\tofft\Documents\Visual Studio 2017\Projects\RimWorld\DontStopTheMusic\Assemblies\musicPauseOut.dll
+C:\Users\tofft\Documents\Visual Studio 2017\Projects\RimWorld\DontStopTheMusic\Source\musicStop\obj\Release\musicPauseOut.csproj.CoreCompileInputs.cache
+C:\Users\tofft\Documents\Visual Studio 2017\Projects\RimWorld\DontStopTheMusic\Source\musicStop\obj\Release\musicPauseOut.dll
