@@ -1,10 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 
 <ModMetaData>
-	<name>[KV] Don't stop the music - 1.0</name>
+	<name>[KV] Don't stop the music - 1.1</name>
 	<author>erdelf (original) &amp; Kiame (support)</author>
-	<targetVersion>1.0.0</targetVersion>
+    <supportedVersions>
+        <li>1.0</li>
+        <li>1.1</li>
+    </supportedVersions>
     <url>https://ludeon.com/forums/index.php?topic=37154.msg380067#msg380067</url>
 	<description>Removes the pause between background songs.
 	</description>
+	<packageId>dontstopthemusic.kv.rw</packageId>
 </ModMetaData>
