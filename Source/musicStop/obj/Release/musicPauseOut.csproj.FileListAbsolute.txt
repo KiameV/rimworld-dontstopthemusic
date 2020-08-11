@@ -1,0 +1,4 @@
+D:\Steam\steamapps\common\RimWorld\Mods\DontStopTheMusic\1.1\Assemblies\musicPauseOut.dll
+D:\RimWorld Mods\DontStopTheMusic\Source\musicStop\obj\Release\musicPauseOut.csprojAssemblyReference.cache
+D:\RimWorld Mods\DontStopTheMusic\Source\musicStop\obj\Release\musicPauseOut.dll
+D:\Steam\steamapps\common\RimWorld\Mods\DontStopTheMusic\1.2\Assemblies\musicPauseOut.dll
